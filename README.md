@@ -12,7 +12,7 @@ At least once per year, your contributions will be evaluated in the context of y
 
 This evaluation will include a peer review (confidential but not anonymous); it is our belief that great contributions do not happen in a bubble - work happens in the context of our team and it is important to always mind where it comes from and where it goes.
 
-To your review, please come prepared to advocate for your performance in either your current level or to make a case for "leveling-up". Also be prepared to share expectations and how they were met or not met.
+For your review, please come prepared to advocate for your performance in either your current level or to make a case for "leveling-up". Also be prepared to share expectations and how they were met or not met.
  
 After [discussion](#discussion-items) and sharing the aggregated themes from your [peer review](#peer-review-questions), we'll ask that you take a few days to reflect then share the points & themes that were most salient to you via email.
 
@@ -26,10 +26,6 @@ Given that we are a pre-Series A startup and that everyone's compensation is a c
 Anne & I would like compensation to be an ongoing dialog; please be prepared for this.
  
 In the future, we will budget for raises explicitly and be transparent around their availability.
-
-Best,
-Mike
-
 
 ## 4. Discussion Items, Peer Review Questions, and Developer Levels
 
