@@ -14,7 +14,7 @@ This evaluation will include a peer review (confidential but not anonymous); it 
 
 To your review, please come prepared to advocate for your performance in either your current level or to make a case for "leveling-up". Also be prepared to share expectations and how they were met or not met.
  
-After [discussion](#discussion-items) and sharing the aggregated themes from your [peer review](#peer-review-questions), we'll ask that you take a few days to reflect then share the points, themes, next steps that were most salient to you via email.
+After [discussion](#discussion-items) and sharing the aggregated themes from your [peer review](#peer-review-questions), we'll ask that you take a few days to reflect then share the points & themes that were most salient to you via email.
 
 We'll then meet to finalize next steps - concluding with a written summary as well as a checklist to track development opportunities over time.
  
