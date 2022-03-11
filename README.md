@@ -44,7 +44,9 @@ During your review, we'd like to discuss the following:
 * What’s next?
 
 ### Peer Review Questions
-On a scale from 1 to 10 - 1 being least and 10 being the most - how likely are you to agree with the following statements about _<your peer>_?
+On a scale from 1 to 10 - 1 being least and 10 being the most - how likely are you to agree with the following statements about _your peer_?
+
+Although presented randomly to the reviewer, the following questions are grouped by theme; to avoid ambiguity, most are asked in multiple or opposite ways:
 
 _Group 1_
 * They know what needs to be done and are proactive about taking on work in their space.
