@@ -50,15 +50,14 @@ Although presented randomly to the reviewer, the following questions are grouped
 
 _Group 1_
 * They know what needs to be done and are proactive about taking on work in their space.
-* They need work to be assigned to them.
+* Their understanding of company priorities is clear by how they choose to spend their time.
 
 _Group 2_
-* Their understanding of company priorities is clear by how they choose to spend their time.
-* They mostly work on the items that are either easy or interesting to them at the time.
-
-_Group 3_
 * They totally "own" the outcomes of their work.
 * They do what they say they'll do.
+
+_Group 3_
+* They tend to solve problems completely and for the future - not just for the present.
 * They are quick to start new projects before finishing others.
 
 _Group 4_
@@ -72,21 +71,17 @@ _Group 5_
 * They often need help.
 * They have mastered the tools needed to do their job.
 * They have mastered the basics of their areas of expertise.
-* They tend to solve problems completely and for the future - not just for the present.
 
 _Group 6_
-* They are capable of working-through a longer problem with a multi-step solution.
-* They are most effective solving smaller problems over short periods of time.
-
-_Group 7_
 * They communicate the details of their work at an appropriate level to their audience.
 * They have difficulty explaining their work to others outside their areas of expertise.
 
-_Group 8_
+_Group 7_
 * They are trustworthy.
 * I trust them.
+* I'd choose them as a partner on an important company project that spanned a few weeks.
 
-_Group 9_
+_Group 8_
 * I would highly recommend working with them.
 * They can be sometimes challenging to work with.
 
